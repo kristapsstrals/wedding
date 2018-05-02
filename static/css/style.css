@@ -1,0 +1,13 @@
+.header {
+    /* background-image: url(../images/jumbo-bg.jpg); */
+    background-image: url(../images/jumbo-bg-min.jpg);
+    background-repeat:no-repeat;
+    background-size:cover;
+    background-position:center;
+}
+
+.is-transparent {
+    background-color: transparent !important;
+    background-image: none !important;
+    border-color: none !important;
+}
